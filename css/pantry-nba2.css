@@ -339,3 +339,18 @@ justify-content: space-around;
     background-size: cover;
   }
 
+  #item13 {
+    height:100vh;
+    background-image: url(../slides/spf13.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  #item14 {
+    height:100vh;
+    background-image: url(../slides/spf14.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
